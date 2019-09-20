@@ -19,6 +19,8 @@ return undefined;
                           
 console.log(sumZero(unsortedArray));
 
+// Big(O) above is n^2 
+
 
 
 
@@ -44,3 +46,5 @@ function sumZero(array) {
     return undefined
 }
 console.log(sumZero(array))
+
+//Big(O) above is n 
